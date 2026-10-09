@@ -1,0 +1,14 @@
+node_modules
+.vercel
+dist
+.output
+artifacts
+screenshots
+*.log
+.env
+.env.*
+.DS_Store
+
+# Platform workspace files. The auth flag is not a secret and is required to run.
+.grok/*
+!.grok/app-env.json

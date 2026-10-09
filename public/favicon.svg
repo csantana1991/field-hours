@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Field Hours">
+  <rect width="32" height="32" fill="#f4efe6"/>
+  <rect x="5" y="5.5" width="22" height="2.5" fill="#1f6f66"/>
+  <path fill="#1c1915" d="M8 11h16.5v3.7H13v2.5h8.2v3.3H13V25.5H8V11z"/>
+</svg>
